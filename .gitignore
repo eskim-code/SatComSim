@@ -1,0 +1,6 @@
+*.asv
+*.m~
+main/
+constellations/
+Data_folder/
+pkg/
