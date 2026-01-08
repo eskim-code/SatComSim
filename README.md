@@ -2,7 +2,6 @@ This code simulates system-level satellite communication networks with dense con
 To support further research and encourage continued investigation in this area, a simplified subset of the original codebase is released here for public use.
 
 Main file: run_multi_systems.m.
-
 Run set_sim_path.m file first before running the main file.
 
 This code borrows MIMO functions and device structures from MFM toolbox by Dr. Ian Roberts (https://gitlab.com/iprnq9/mfm/-/blob/master/README.md?ref_type=heads). 
